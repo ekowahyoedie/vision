@@ -8,11 +8,11 @@ headers = {
     'x-dt-custom-data': 'eyJ1c2VySWQiOiIxMi1hZmRjM2Y5Zjc0OTM4YWE4M2JlMmEzMGE4YzA2MGY3NyIsInNlc3Npb25JZCI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUp2Y0dWeVlYUnZjbDlwWkNJNk1USXNJbk5sYzNOcGIyNUpaQ0k2SW1GbVpHTXpaamxtTFRjME9UTXRPR0ZoT0MwelltVXlMV0V6TUdFNFl6QTJNR1kzTnpFMk16a3pNakV3TURraUxDSjBhVzFsYzNSaGJYQWlPakUyTXprek1qRXdNRGtzSW5WelpYSkpaQ0k2SWpFeUxXRm1aR016WmpsbU56UTVNemhoWVRnelltVXlZVE13WVRoak1EWXdaamMzSW4wLmk5dzdYZlZZYWVwTmQyU2t4YWZhRVZRSXJSOXcxbHBxRXJ5WEFldTJjaU0iLCJtZXJjaGFudCI6InFuZXQifQ==',
     'sec-ch-ua-platform': '"Windows"',
     'accept': '/',
-    'origin': 'https://vieon.vn',
+    'origin': 'https://m.rctiplus.com',
     'sec-fetch-site': 'same-site',
     'sec-fetch-mode': 'cors',
     'sec-fetch-dest': 'empty',
-    'referer': 'https://vieon.vn/',
+    'referer': 'https://m.rctiplus.com/',
     'accept-language': 'en-US,en;q=0.9,vi;q=0.8',
 }
 params = (
@@ -26,7 +26,7 @@ provider = 'kakaotv'
 
 
 releasePid = "_qVpiY31v_oU"
-# response = requests.post('https://widevine-proxy.ott.yandex.ru/proxy', headers=headers, cookies=cookies, data=data)
+# response = requests.post('https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz', headers=headers, cookies=cookies, data=data)
 
 # print(f'{chr(10)}widevine_license: {response.content}')
 #NB. Original query string below. It seems impossible to parse and
